@@ -1,3 +1,1 @@
-- roblox anticheat is very bad
-- spoofs a new process and calls it x64dbg and the roblox anticheat shits itself and denies to launch roblox
-- no src code because its basic, if u dont know how to do this please leave the internet
+# PATCHED
